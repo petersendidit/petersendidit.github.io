@@ -1,0 +1,6 @@
+name: Petersen Did It Blog
+safe: true
+lsi: false
+pygments: true
+permalink: /post/:title/
+markdown: redcarpet
