@@ -1,6 +1,6 @@
 name: Petersen Did It Blog
 safe: true
 lsi: false
-pygments: true
+highlighter: rouge
 permalink: /post/:title/
 markdown: kramdown
